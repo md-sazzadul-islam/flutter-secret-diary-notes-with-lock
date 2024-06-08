@@ -27,4 +27,4 @@ Secret Diary - Notes With Lock is a mobile application that provides users with 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/secret-diary.git
+   git clone https://github.com/md-sazzadul-islam/secret-diary-notes-with-lock.git
