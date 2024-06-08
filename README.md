@@ -1,19 +1,17 @@
 # Secret Diary - Notes With Lock
 
-![Secret Diary Logo](secret-diary-logo.png)
-
 Secret Diary - Notes With Lock is a mobile application that provides users with a private and secure space to journal their thoughts and feelings. With password protection and customizable entries, users can document their experiences with confidence.
 
 ## Screenshots
 
-![Screenshot 0](https://cnd.sazzadul.com/notes/screen-0.webp)
-![Screenshot 1](https://cnd.sazzadul.com/notes/screen-1.webp)
-![Screenshot 2](https://cnd.sazzadul.com/notes/screen-2.webp)
-![Screenshot 3](https://cnd.sazzadul.com/notes/screen-3.webp)
-![Screenshot 4](https://cnd.sazzadul.com/notes/screen-4.webp)
-![Screenshot 5](https://cnd.sazzadul.com/notes/screen-5.webp)
-![Screenshot 6](https://cnd.sazzadul.com/notes/screen-6.webp)
-![Screenshot 7](https://cnd.sazzadul.com/notes/screen-7.webp)
+![Secret Diary 0](https://cnd.sazzadul.com/notes/screen-0.webp)
+![Secret Diary 1](https://cnd.sazzadul.com/notes/screen-1.webp)
+![Secret Diary 2](https://cnd.sazzadul.com/notes/screen-2.webp)
+![Secret Diary 3](https://cnd.sazzadul.com/notes/screen-3.webp)
+![Secret Diary 4](https://cnd.sazzadul.com/notes/screen-4.webp)
+![Secret Diary 5](https://cnd.sazzadul.com/notes/screen-5.webp)
+![Secret Diary 6](https://cnd.sazzadul.com/notes/screen-6.webp)
+![Secret Diary 7](https://cnd.sazzadul.com/notes/screen-7.webp)
 
 ## Features
 
