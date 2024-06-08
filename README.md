@@ -1,4 +1,4 @@
-# Secret Diary - Notes With Lock
+# Flutter Secret Diary - Notes With Lock
 
 Secret Diary - Notes With Lock is a mobile application that provides users with a private and secure space to journal their thoughts and feelings. With password protection and customizable entries, users can document their experiences with confidence.
 
